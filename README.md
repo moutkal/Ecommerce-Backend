@@ -1,2 +1,2 @@
 # Ecommerce-Backend-
-Backend of site Ecommerce
+This module contains articles about Spring Boot
